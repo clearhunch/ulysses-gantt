@@ -1,0 +1,17 @@
+{
+  "name": "ulysses-gantt",
+  "version": "0.1.0",
+  "description": "Easy and simple gantt charts with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "gantt",
+    "chart",
+    "component"
+  ],
+  "author": "Chris Edge <chris@reserve.dev>",
+  "license": "MIT"
+}
