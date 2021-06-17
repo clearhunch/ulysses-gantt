@@ -13,5 +13,9 @@
     "component"
   ],
   "author": "Chris Edge <chris@reserve.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.28.0",
+    "prettier": "^2.3.1"
+  }
 }
